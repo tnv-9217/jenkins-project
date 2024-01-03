@@ -8,7 +8,7 @@ public class Main{
         System.out.println("Output from java program");
         System.out.println(new Date());
         System.out.println("HEllo there, github isn't behaving and not finding repo");
-        System.out.println("Added one more file");
+        System.out.println("added one more file");
         
     }
 }
